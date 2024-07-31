@@ -1,10 +1,10 @@
-const ProductListing = () => {
+const Productlisting = () => {
   return (
     <div>
-      <h1>Product Listing</h1>
+      <h1>Productlisting</h1>
       {/* Your product listing code here */}
     </div>
   );
 };
 
-export default ProductListing;
+export default Productlisting;

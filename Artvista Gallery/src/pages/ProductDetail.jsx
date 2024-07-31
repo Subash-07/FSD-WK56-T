@@ -1,11 +1,11 @@
-import { useParams } from 'react-router-dom';
+import { useparams } from 'react-router-dom';
 
 const ProductInfo = () => {
-  const { productSku } = useParams();
+  const { productSku } = useparams();
 
   return (
     <div>
-      <h1>Product Info: {productSku}</h1>
+      <h1>ProductInfo: {productSku}</h1>
       {/* Your product info code here */}
     </div>
   );
