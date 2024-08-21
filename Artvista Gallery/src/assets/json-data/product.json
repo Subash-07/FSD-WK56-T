@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Apple iPhone 13",
+      "sku": "APL-IP13-128GB",
+      "images": ["https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-family-select?wid=940&hei=1112&fmt=png-alpha&.v=1631831667000"],
+      "price": 799,
+      "description": "The new Apple iPhone 13 with 128GB storage and advanced camera features.",
+      "availableQty": 25,
+      "category": "electronics",
+      "sellerInfo": "Apple Store"
+    },
+    {
+      "name": "Nike Air Zoom Pegasus",
+      "sku": "NK-AZP-37",
+      "images": ["https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/rsjzfx7cvypkoclaeebz/air-zoom-pegasus-38-road-running-shoes-BhHH1C.png"],
+      "price": 120,
+      "description": "The Nike Air Zoom Pegasus 37 is designed for runners looking for a comfortable and responsive ride.",
+      "availableQty": 15,
+      "category": "sports",
+      "sellerInfo": "Nike Store"
+    },
+    {
+      "name": "Samsung QLED 4K TV",
+      "sku": "SMSNG-QLED-55",
+      "images": ["https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/qled-8k/qn90a/gallery/QN90A_002_R-Perspective1-2.jpg?$product-details-jpg$"],
+      "price": 999,
+      "description": "Experience the stunning picture quality of Samsung's QLED 4K TV with vibrant colors and deep blacks.",
+      "availableQty": 10,
+      "category": "electronics",
+      "sellerInfo": "Samsung Store"
+    },
+    {
+      "name": "Adidas Ultraboost 21",
+      "sku": "ADD-UB21",
+      "images": ["https://assets.adidas.com/images/w_600,f_auto,q_auto/554a57b805324f47a724ad64011fa48b_9366/Ultraboost_21_Shoes_White_FY0374_01_standard.jpg"],
+      "price": 180,
+      "description": "Adidas Ultraboost 21 running shoes provide maximum comfort and energy return with each step.",
+      "availableQty": 20,
+      "category": "sports",
+      "sellerInfo": "Adidas Store"
+    },
+    {
+      "name": "Levi's 501 Original Jeans",
+      "sku": "LEVIS-501-ORIG",
+      "images": ["https://lsco.scene7.com/is/image/lsco/005010194-alt1-pdp"],
+      "price": 89,
+      "description": "Levi's 501 Original Jeans offer a classic straight fit with timeless style and durability.",
+      "availableQty": 30,
+      "category": "fashion",
+      "sellerInfo": "Levi's Store"
+    }
+  ]
+  

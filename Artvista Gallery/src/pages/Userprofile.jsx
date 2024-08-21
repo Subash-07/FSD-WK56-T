@@ -1,10 +1,5 @@
-const UserProfile = () => {
-    return (
-      <div>
-        <h1>UserProfile</h1>
-        {/* Your user profile code here */}
-      </div>
-    );
-  };
+function UserProfile() {
+    return <div>User Profile Page</div>;
+  }
   
   export default UserProfile;
